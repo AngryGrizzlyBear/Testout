@@ -21,7 +21,7 @@ class App extends Component {
     render() {
 
 
-        return <ul>hi</ul>
+        return <ul>Updated</ul>
     }
 }
 
